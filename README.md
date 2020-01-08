@@ -17,10 +17,9 @@ countexec /usr/bin
 ...
 ```
 ## Excercise 3
-Quick! A new wordpress site must go live!  
-Automate the setup of the application: create a bash script, ansible playbook or use any tool you like that, when run, download the latest version of wordpress, set it up and configure the webserver to serve the site in a secure, fast and stable manner.  
-Do any assumption you need.
+Quick! A new wordpress site must go live!
+Choose the language you prefer (choose one between bash, ansible, puppet, chef, salt) and automate the setup of application: download the latest version of wordpress, set it up and configure the webserver to serve the site in a secure, fast and stable manner.
+Assume to use one or two VMs and do any other assumption you need.
 
 ## How to share your solution with us
-Create your own public GitHub repository, and share the link via mail.  
-Feel free to describe your solutions in a readme file.
+Describe your solutions in a readme file and create your own public GitHub repository, and share the link via mail.  
