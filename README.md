@@ -16,7 +16,11 @@ countexec /usr/bin
 22 #!/usr/sbin/dtrace -s
 ...
 ```
+
 ## Excercise 3
+Write a cron string that every sunday night create a backup of /home/user folder and send it to a remote server which can be reached using ssh with user@192.168.1.100 (consider private and public key already correctly installed and configured).
+
+## Excercise 4
 Quick! A new wordpress site must go live!
 Choose the language you prefer (choose one between bash, ansible, puppet, chef, salt) and automate the setup of application: download the latest version of wordpress, set it up and configure the webserver to serve the site in a secure, fast and stable manner.
 Assume to use one or two VMs and do any other assumption you need.
